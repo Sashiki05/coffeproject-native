@@ -1,0 +1,30 @@
+{
+    "expo": {
+      "name": "CoffeProject-Client",
+      "slug": "CoffeProject-Client",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "../CoffeProject-Client/src/assets/icon.png",
+      "userInterfaceStyle": "light",
+      "splash": {
+        "image": "../CoffeProject-Client/src/assets/splash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "../CoffeProject-Client/src/assets/adaptive-icon.png",
+          "backgroundColor": "#ffffff"
+        }
+      },
+      "web": {
+        "favicon": "../CoffeProject-Client/src/assets/favicon.png"
+      }
+    }
+  }
